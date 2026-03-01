@@ -14,11 +14,6 @@
 - Password
 - Admin Name
 
-### Roles
-- SuperAdmin
-- Admin
-- Member
-
 ---
 
 ## 📊 Dashboard
