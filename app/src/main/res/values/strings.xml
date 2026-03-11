@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Library management app</string>
+    <string name="login">Login</string>
+    <string name="dashboard">Dashboard</string>
 </resources>

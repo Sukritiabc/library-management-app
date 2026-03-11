@@ -6,4 +6,5 @@
     </style>
 
     <style name="Theme.LibraryManagementApp" parent="Base.Theme.LibraryManagementApp" />
+    <style name="Theme.LibraryApp" parent="Theme.Material3.DayNight.NoActionBar"/>
 </resources>
